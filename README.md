@@ -1,2 +1,2 @@
 # SoftwareEngineering
-My software engineering Stuff
+My software engineering Stuff, to test prototype web designs
